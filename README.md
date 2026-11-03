@@ -4,6 +4,8 @@
 
 [Jogar gratuitamente](https://gustapaz.github.io/veletra/)
 
+![Veletra publicado, rio de papel e palavra em digitação](docs/public-gameplay.png)
+
 Arcade de digitação com barcos de papel num panorama de rio. Escreva a palavra visível e pressione **Enter** ou **Enviar** para levar o barco ao porto antes do prazo. Três coleções de dez palavras — Costa, Oficina e Céu — e três ritmos, com recordes locais separados.
 
 ## Regras e controles
