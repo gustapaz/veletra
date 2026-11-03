@@ -1,0 +1,1 @@
+import {readFileSync,writeFileSync} from 'node:fs';const pkg=JSON.parse(readFileSync('node_modules/kontra/package.json','utf8'));writeFileSync('public/third-party.txt',('Veletra - third-party notices\n\nKontra.js '+pkg.version+'\n'+readFileSync('node_modules/kontra/LICENSE','utf8')).replace(/\r\n/g,'\n').trimEnd()+'\n');
